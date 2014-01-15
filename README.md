@@ -1,4 +1,12 @@
-TallerIntroPython
-=================
+[Comunidad de Software Libre UESOcc](https://www.facebook.com/groups/csluesfmocc)
+=================================================================================
 
-Codigo fuente del Taller Introducción a Python
+#Taller Introducción a Python
+
+
+Codigo fuente del taller 
+
+Autor: Eduardo Gomez Valencia
+
+video: http://www.youtube.com/watch?v=3LoNMImNLWY
+
